@@ -81,7 +81,7 @@ docker exec -it apache /bin/bash
 vi /etc/resolv.conf
 ```
 
-- nameservaer 127.0.0.11を172.18.0.2に変更
+- nameserver 127.0.0.11を172.18.0.2に変更
 
 ファイアウォールのサービス設定
 
